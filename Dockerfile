@@ -5,4 +5,4 @@ COPY . .
 
 RUN pip3 install -r requirements.txt
 
-CMD ["", ""]
+CMD ["python", "-m Adarsh"]
