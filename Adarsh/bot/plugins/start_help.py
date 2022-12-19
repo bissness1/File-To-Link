@@ -61,7 +61,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇᴢ ⚡", url="https://t.me/animecolony"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/zippercartoonistrequestgroup")],
-                    [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://t.me/animedualaudiozippercartoonist"),
+                    [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://t.me/animedualaudiozippercartoonist")],
                     [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="animecolony")]
                 ]
             ),
